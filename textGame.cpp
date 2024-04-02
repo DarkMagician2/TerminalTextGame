@@ -70,8 +70,6 @@ struct InvData
     }
 };
 
-
-
 void house(std::vector<std::vector<Tile>> &vect, int x, int y)
 {
     for(int i=0;i<5;i++)
@@ -109,6 +107,7 @@ void house(std::vector<std::vector<Tile>> &vect, int x, int y)
         }
     }
 }
+
 void pii(std::string item, std::vector<std::vector<std::string>> &vect, std::vector<std::vector<int>> &dat, std::string heldItem)
 {
     for(int i=0;i<vect.size();i++)
@@ -136,6 +135,7 @@ void pii(std::string item, std::vector<std::vector<std::string>> &vect, std::vec
         }
     }
 }
+
 int main()
 {
     srand (time(NULL));
