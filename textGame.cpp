@@ -35,8 +35,6 @@ int scrnX = scrnStrtPos;
 int scrnY = scrnStrtPos;
 std::string output = "";
 
-
-
 struct Tile
 {
     std::string disp;
