@@ -23,8 +23,6 @@ int totalItems = 2;
 int invX = 0;
 int invY = 0;
 std::regex command("[0-9]+|:", std::regex_constants::ECMAScript);
-
-
 std::string cmdCur = "";
 bool gameRun = true;
 char userIn = '\0';
