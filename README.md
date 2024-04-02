@@ -1,2 +1,2 @@
 # WIP
-## Currently just a sandbox testing project.
+Currently just a sandbox testing project.
